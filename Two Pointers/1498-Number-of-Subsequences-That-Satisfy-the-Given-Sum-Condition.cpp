@@ -2,7 +2,7 @@
  * LeetCode Problem 1498: Number of Subsequences That Satisfy the Given Sum Condition
  * Link     : https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition
  * Tags     : Two Pointers, Sorting, Binary Search, Greedy
- * Companies: Amazon, Google, ByteDance
+ * Companies: Amazon, Google, facebook, SnapChat
  * 
  * Time Complexity: O(N log N)  // due to sorting
  * Space Complexity: O(N)       // for power-of-2 precomputation
