@@ -1,6 +1,8 @@
 /*
- * Problem: Hexadecimal and Hexatrigesimal Conversion
- * Tags    : Base Conversion, String Manipulation, Math
+ * Problem  : Hexadecimal and Hexatrigesimal Conversion
+ * Link     : https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/
+ * Tags     : Base Conversion, String Manipulation, Math
+ * Companies: [To be updated]
  * 
  * Time Complexity : O(log N)  // for converting n^2 and n^3 to base 16 and base 36
  * Space Complexity: O(log N)  // for storing characters of the converted number
