@@ -19,6 +19,8 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+//approach 1
 class Solution {
 public:
     //preorder
@@ -34,3 +36,33 @@ public:
         return dfs(root);
     }
 };
+
+//approach 2
+    string dfs(TreeNode* node){
+        if(!node) return "";
+
+        string left = dfs(node->left);
+        string right = dfs(node->right);
+
+        // If both children are null
+        if(left.empty() && right.empty()){
+            return to_string(node->val);
+        }
+
+        // If only right child (need to include empty ())
+        if(left.empty()){
+            return to_string(node->val) + "()" + "(" + right + ")";
+        }
+
+        // If only left child
+        if(right.empty()){
+            return to_string(node->val) + "(" + left + ")";
+        }
+
+        // If both children exist
+        return to_string(node->val) + "(" + left + ")" + "(" + right + ")";
+    }
+
+    string tree2str(TreeNode* root){
+        return dfs(root);
+    }
