@@ -2,7 +2,7 @@
  * LeetCode Problem 106: Construct Binary Tree from Inorder and Postorder Traversal
  * Link     : https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
  * Tags     : Tree, Binary Tree, DFS, Recursion, Divide and Conquer
- * Companies: Amazon, Microsoft, Google, Facebook
+ * Companies: Mathworks, Amazon, Microsoft, Shopee, Facebook, Twitter, Bloomberg
  * 
  * Time Complexity  : O(N), where N is the number of nodes (each node is visited once)
  * Space Complexity : O(N), for hashmap and recursion stack
