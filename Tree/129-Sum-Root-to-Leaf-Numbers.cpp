@@ -34,5 +34,39 @@ public:
     }
 };
 
+//Approach2 
+vector<string> dfs(TreeNode* node){
+        if(node==NULL) return {};
+        if(node->left==NULL && node->right==NULL){
+            return {to_string(node->val)};
+        }
 
+        vector<string>path;
+        vector<string>left= dfs(node->left);
+        vector<string>right= dfs(node->right);
+
+        for(int i=0;i<left.size();i++){
+            path.push_back(left[i] + to_string(node->val));
+        }
+
+        for(int i=0;i<right.size();i++){
+            path.push_back(right[i] + to_string(node->val));
+        }
+
+        return path;
+    }
+
+    int sumNumbers(TreeNode* root){
+        vector<string>path=dfs(root);
+        
+        for(int i=0;i<path.size();i++){
+            reverse(path[i].begin(),path[i].end());
+        }
+
+        int sum=0;
+        for(int i=0;i<path.size();i++){
+            sum +=stoi(path[i]);
+        }
+        return sum;       
+    }
 
