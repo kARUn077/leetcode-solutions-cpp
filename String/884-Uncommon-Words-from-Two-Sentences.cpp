@@ -2,7 +2,7 @@
  * LeetCode Problem 884: Uncommon Words from Two Sentences
  * Link     : https://leetcode.com/problems/uncommon-words-from-two-sentences
  * Tags     : Hash Table, String, Counting
- * Companies: Amazon, Google
+ * Companies: Amazon, Google, Microsoft, Expedia, Facebook
  * 
  * Time Complexity  : O(N + M), where N and M are lengths of the two input strings
  * Space Complexity : O(N + M), for storing words and their frequencies
