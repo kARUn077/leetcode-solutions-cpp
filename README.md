@@ -23,4 +23,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0045-jump-game-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
