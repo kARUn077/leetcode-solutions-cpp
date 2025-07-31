@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0678-valid-parenthesis-string) |
+| [3195-separate-black-and-white-balls](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0678-valid-parenthesis-string) |
+| [3195-separate-black-and-white-balls](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/3195-separate-black-and-white-balls) |
 ## Array
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## Two Pointers
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
