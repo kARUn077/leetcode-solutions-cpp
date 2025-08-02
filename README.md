@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0537-complex-number-multiplication](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0537-complex-number-multiplication) |
 | [0678-valid-parenthesis-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0678-valid-parenthesis-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1205-defanging-an-ip-address) |
 | [1944-truncate-sentence](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1944-truncate-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/3195-separate-black-and-white-balls) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0496-next-greater-element-i) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0537-complex-number-multiplication) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
