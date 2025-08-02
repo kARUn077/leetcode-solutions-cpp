@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0151-reverse-words-in-a-string) |
+| [0537-complex-number-multiplication](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0537-complex-number-multiplication) |
 | [0678-valid-parenthesis-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0678-valid-parenthesis-string) |
 | [1205-defanging-an-ip-address](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1205-defanging-an-ip-address) |
 | [1944-truncate-sentence](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1944-truncate-sentence) |
@@ -80,5 +81,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0537-complex-number-multiplication) |
 | [3893-generate-tag-for-video-caption](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/3893-generate-tag-for-video-caption) |
+## Math
+|  |
+| ------- |
+| [0537-complex-number-multiplication](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0537-complex-number-multiplication) |
 <!---LeetCode Topics End-->
