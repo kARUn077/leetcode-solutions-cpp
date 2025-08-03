@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0172-factorial-trailing-zeroes) |
 | [0537-complex-number-multiplication](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0537-complex-number-multiplication) |
 ## Counting
 |  |
