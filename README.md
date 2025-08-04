@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0045-jump-game-ii) |
+| [0149-max-points-on-a-line](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0149-max-points-on-a-line) |
 | [0496-next-greater-element-i](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0496-next-greater-element-i) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1944-truncate-sentence](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1944-truncate-sentence) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0001-two-sum) |
+| [0149-max-points-on-a-line](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0149-max-points-on-a-line) |
 | [0496-next-greater-element-i](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0496-next-greater-element-i) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Monotonic Stack
@@ -90,10 +92,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0172-factorial-trailing-zeroes) |
 | [0537-complex-number-multiplication](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0537-complex-number-multiplication) |
 ## Counting
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0920-uncommon-words-from-two-sentences) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
