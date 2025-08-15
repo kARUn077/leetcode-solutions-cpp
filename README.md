@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0151-reverse-words-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0433-minimum-genetic-mutation) |
 | [0537-complex-number-multiplication](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0537-complex-number-multiplication) |
 | [0678-valid-parenthesis-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0001-two-sum) |
 | [0149-max-points-on-a-line](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0149-max-points-on-a-line) |
+| [0433-minimum-genetic-mutation](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0496-next-greater-element-i) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0433-minimum-genetic-mutation) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Number Theory
 |  |
