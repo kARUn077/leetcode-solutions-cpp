@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0871-keys-and-rooms](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1021-distribute-coins-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2121-find-if-path-exists-in-graph) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0433-minimum-genetic-mutation) |
+| [0871-keys-and-rooms](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0871-keys-and-rooms) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
