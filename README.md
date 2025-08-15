@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0496-next-greater-element-i) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1944-truncate-sentence](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1944-truncate-sentence) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0433-minimum-genetic-mutation) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Number Theory
 |  |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Matrix
+|  |
+| ------- |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
