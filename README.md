@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1021-distribute-coins-in-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/3112-count-valid-paths-in-a-tree) |
 ## Binary Tree
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0433-minimum-genetic-mutation) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2121-find-if-path-exists-in-graph](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Number Theory
 |  |
@@ -146,10 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2121-find-if-path-exists-in-graph](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2121-find-if-path-exists-in-graph](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
