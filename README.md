@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0813-all-paths-from-source-to-target) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0813-all-paths-from-source-to-target](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0433-minimum-genetic-mutation) |
+| [0813-all-paths-from-source-to-target](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0922-possible-bipartition) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
