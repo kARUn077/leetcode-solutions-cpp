@@ -173,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
