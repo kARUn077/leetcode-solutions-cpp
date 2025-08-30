@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Binary Search
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0151-reverse-words-in-a-string) |
+| [2481-strictly-palindromic-number](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2481-strictly-palindromic-number) |
 | [3195-separate-black-and-white-balls](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0172-factorial-trailing-zeroes) |
 | [0537-complex-number-multiplication](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0537-complex-number-multiplication) |
+| [2481-strictly-palindromic-number](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2481-strictly-palindromic-number) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/3112-count-valid-paths-in-a-tree) |
 ## Counting
 |  |
