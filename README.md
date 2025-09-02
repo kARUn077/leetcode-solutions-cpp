@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0051-n-queens) |
 | [0149-max-points-on-a-line](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0149-max-points-on-a-line) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0052-n-queens-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0813-all-paths-from-source-to-target) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0037-sudoku-solver) |
 | [0149-max-points-on-a-line](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0149-max-points-on-a-line) |
 | [0433-minimum-genetic-mutation](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0496-next-greater-element-i) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0037-sudoku-solver) |
 | [0741-cherry-pickup](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0741-cherry-pickup) |
 | [1559-cherry-pickup-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1559-cherry-pickup-ii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2038-nearest-exit-from-entrance-in-maze) |
