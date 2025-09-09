@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0445-add-two-numbers-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0735-asteroid-collision) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0002-add-two-numbers) |
 | [0149-max-points-on-a-line](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0172-factorial-trailing-zeroes) |
+| [0445-add-two-numbers-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0445-add-two-numbers-ii) |
 | [0537-complex-number-multiplication](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0537-complex-number-multiplication) |
 | [2481-strictly-palindromic-number](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2481-strictly-palindromic-number) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/3112-count-valid-paths-in-a-tree) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0002-add-two-numbers) |
+| [0445-add-two-numbers-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
