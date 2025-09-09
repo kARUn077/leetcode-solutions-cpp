@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0002-add-two-numbers) |
 | [0149-max-points-on-a-line](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0172-factorial-trailing-zeroes) |
 | [0537-complex-number-multiplication](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0537-complex-number-multiplication) |
@@ -209,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
