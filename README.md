@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0595-big-countries) |
+| [1292-immediate-food-delivery-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1415-students-and-examinations) |
