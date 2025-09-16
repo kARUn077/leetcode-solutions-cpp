@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0496-next-greater-element-i) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Monotonic Stack
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/3112-count-valid-paths-in-a-tree) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0922-possible-bipartition) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2121-find-if-path-exists-in-graph) |
@@ -224,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
