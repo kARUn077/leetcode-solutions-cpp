@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0051-n-queens) |
+| [0088-merge-sorted-array](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0088-merge-sorted-array) |
 | [0149-max-points-on-a-line](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0149-max-points-on-a-line) |
 | [0496-next-greater-element-i](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0735-asteroid-collision) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [2481-strictly-palindromic-number](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2481-strictly-palindromic-number) |
 | [3195-separate-black-and-white-balls](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/3195-separate-black-and-white-balls) |
@@ -232,5 +234,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0088-merge-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
