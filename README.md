@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0741-cherry-pickup) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0088-merge-sorted-array) |
 | [0149-max-points-on-a-line](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0149-max-points-on-a-line) |
 | [0496-next-greater-element-i](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0496-next-greater-element-i) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0088-merge-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
