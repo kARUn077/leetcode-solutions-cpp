@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0118-pascals-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0741-cherry-pickup) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0118-pascals-triangle) |
 | [0149-max-points-on-a-line](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0149-max-points-on-a-line) |
 | [0496-next-greater-element-i](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0735-asteroid-collision) |
