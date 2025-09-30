@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0118-pascals-triangle) |
 | [0149-max-points-on-a-line](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0149-max-points-on-a-line) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0741-cherry-pickup) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Sliding Window
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0741-cherry-pickup](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0741-cherry-pickup) |
 | [1559-cherry-pickup-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1559-cherry-pickup-ii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -247,4 +250,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
