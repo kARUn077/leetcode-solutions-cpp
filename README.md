@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0015-3sum) |
+| [0061-rotate-list](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [2481-strictly-palindromic-number](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2481-strictly-palindromic-number) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0061-rotate-list) |
 | [0445-add-two-numbers-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
