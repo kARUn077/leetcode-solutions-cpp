@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0741-cherry-pickup) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Sliding Window
 |  |
