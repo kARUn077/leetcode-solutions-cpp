@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0922-possible-bipartition) |
@@ -192,12 +194,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0433-minimum-genetic-mutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0871-keys-and-rooms) |
