@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/3112-count-valid-paths-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/3112-count-valid-paths-in-a-tree) |
 ## Binary Tree
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Number Theory
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2121-find-if-path-exists-in-graph) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Matrix
 |  |
 | ------- |
