@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0151-reverse-words-in-a-string) |
+| [0394-decode-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0394-decode-string) |
 | [0433-minimum-genetic-mutation](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0433-minimum-genetic-mutation) |
 | [0537-complex-number-multiplication](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0537-complex-number-multiplication) |
 | [0678-valid-parenthesis-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0678-valid-parenthesis-string) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0678-valid-parenthesis-string) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0025-reverse-nodes-in-k-group) |
+| [0394-decode-string](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0394-decode-string) |
 ## Sorting
 |  |
 | ------- |
