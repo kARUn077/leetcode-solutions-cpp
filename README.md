@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1205-defanging-an-ip-address) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1763-longest-nice-substring](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1763-longest-nice-substring) |
 | [1944-truncate-sentence](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1944-truncate-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/3195-separate-black-and-white-balls) |
 | [3893-generate-tag-for-video-caption](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/3893-generate-tag-for-video-caption) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1763-longest-nice-substring](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1763-longest-nice-substring) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1763-longest-nice-substring](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1763-longest-nice-substring) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Two Pointers
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1763-longest-nice-substring](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1763-longest-nice-substring) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Monotonic Stack
 |  |
@@ -289,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [1763-longest-nice-substring](https://github.com/kARUn077/leetcode-solutions-cpp/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
